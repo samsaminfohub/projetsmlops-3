@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+mlflow
+psycopg2-binary
+fastapi
+uvicorn[standard]
+streamlit
